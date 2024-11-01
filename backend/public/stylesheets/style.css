@@ -1,0 +1,54 @@
+
+* {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  font-size: 10px;
+}
+h1 {
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+/* th {
+  background-color: #007bff;
+  color: white;
+}
+tr:hover {
+  background-color: #f1f1f1;
+} */
+/* button {
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
+.delete-button {
+  background-color: #dc3545;
+}
+.delete-button:hover {
+  background-color: #c82333;
+} */
+img {
+  max-width: 40px;
+}
+
+td {
+  vertical-align: top; /* ข้อมูลทุกช่องจะชิดด้านบน */
+}
